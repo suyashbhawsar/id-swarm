@@ -1,0 +1,17 @@
+[package]
+name = "id-swarm"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# Add any dependencies you need here
+
+[workspace]
+members = [
+    "backend",
+    "smart_contracts",
+]
+
+[lib]
+name = "id_swarm"
+path = "smart_contracts/src/lib.rs"

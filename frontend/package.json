@@ -1,0 +1,15 @@
+{
+    "name": "frontend",
+    "version": "1.0.0",
+    "description": "Frontend package for id-swarm project",
+    "scripts": {
+      "start": "your-start-script",
+      "build": "your-build-script"
+    },
+    "dependencies": {
+
+    },
+    "devDependencies": {
+
+    }
+  }
